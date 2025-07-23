@@ -43,7 +43,7 @@ E-commerceDemotest/
 
 1. Clone the repository
 
-git clone https://github.com/<your-username>/SwagLabs-TestAutomation.git
+git clone https://github.com/sangeetha-sivarajan/SwagLabs-Software_Testing.git
 cd SwagLabs-TestAutomation
 2. Create and activate a virtual environment
 python -m venv venv
