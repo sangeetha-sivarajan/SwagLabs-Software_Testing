@@ -10,7 +10,7 @@ It uses Python, Pytest, and Page Object Model (POM) design pattern.
 - **Test Runner**: Pytest
 - **Design Pattern**: Page Object Model (POM)
 - **Test Data Format**: JSON
-- **Reports**: pytest-html
+- **Reports**: pytest-html, allure report
 - **Logging**: Python built-in logging module
 
  📁 Project Structure
@@ -34,6 +34,7 @@ E-commerceDemotest/
 ├── screenshots/ # Stores screenshots on failure
 ├── Logs/ # Contains log files
 ├── Reports/ # HTML test reports
+├── allure-report
 │
 ├── conftest.py # Fixtures for browser and setup
 ├── requirements.txt # Python dependencies
@@ -76,6 +77,8 @@ All test actions and results are logged in Logs/test_log.log using a custom Pyth
  POM-based structure for maintainability
 
  HTML test report generation
+
+ Allure report generation
 
  Logging integration
 
