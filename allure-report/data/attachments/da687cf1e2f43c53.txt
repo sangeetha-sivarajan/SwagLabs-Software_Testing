@@ -1,0 +1,14 @@
+[32mINFO    [0m SwagLabsTest:test_swaglabs.py:21 ===== Starting test for user: performance_glitch_user =====
+[35mDEBUG   [0m SwagLabsTest:test_swaglabs.py:22 Page Title: Swag Labs
+[32mINFO    [0m SwagLabsTest:test_swaglabs.py:39 Login successful for user: performance_glitch_user
+[35mDEBUG   [0m SwagLabsTest:test_swaglabs.py:40 Product Page Title: Swag Labs
+[32mINFO    [0m SwagLabsTest:test_swaglabs.py:42 Sorted products.
+[32mINFO    [0m SwagLabsTest:test_swaglabs.py:44 Added products to cart.
+[35mDEBUG   [0m SwagLabsTest:test_swaglabs.py:46 Cart Page Title: Swag Labs
+[32mINFO    [0m SwagLabsTest:test_swaglabs.py:49 Navigated to cart.
+[32mINFO    [0m SwagLabsTest:test_swaglabs.py:51 Filled user information.
+[35mDEBUG   [0m SwagLabsTest:test_swaglabs.py:65 No checkout error message found. Proceeding...
+[32mINFO    [0m SwagLabsTest:test_swaglabs.py:68 Viewed checkout overview.
+[32mINFO    [0m SwagLabsTest:test_swaglabs.py:70 Validated order summary.
+[32mINFO    [0m SwagLabsTest:test_swaglabs.py:72 Logged out successfully.
+[32mINFO    [0m SwagLabsTest:test_swaglabs.py:73 ===== Test completed for user: performance_glitch_user =====
