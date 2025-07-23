@@ -1,0 +1,11 @@
+[32mINFO    [0m SwagLabsTest:test_swaglabs.py:21 ===== Starting test for user: performance_glitch_user =====
+[35mDEBUG   [0m SwagLabsTest:test_swaglabs.py:22 Page Title: Swag Labs
+[32mINFO    [0m SwagLabsTest:test_swaglabs.py:39 Login successful for user: performance_glitch_user
+[35mDEBUG   [0m SwagLabsTest:test_swaglabs.py:40 Product Page Title: Swag Labs
+[32mINFO    [0m SwagLabsTest:test_swaglabs.py:42 Sorted products.
+[32mINFO    [0m SwagLabsTest:test_swaglabs.py:44 Added products to cart.
+[35mDEBUG   [0m SwagLabsTest:test_swaglabs.py:46 Cart Page Title: Swag Labs
+[32mINFO    [0m SwagLabsTest:test_swaglabs.py:49 Navigated to cart.
+[32mINFO    [0m SwagLabsTest:test_swaglabs.py:51 Filled user information.
+[33mWARNING [0m SwagLabsTest:test_swaglabs.py:59 Checkout error occurred. Screenshot saved: screenshots/Sangeetha_invalid_login.png
+[31m[1mERROR   [0m SwagLabsTest:test_swaglabs.py:60 Checkout validation message: Error: Postal Code is required
