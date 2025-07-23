@@ -1,4 +1,0 @@
-[32mINFO    [0m SwagLabsTest:test_swaglabs.py:21 ===== Starting test for user: performance_glitch =====
-[35mDEBUG   [0m SwagLabsTest:test_swaglabs.py:22 Page Title: Swag Labs
-[33mWARNING [0m SwagLabsTest:test_swaglabs.py:28 Login failed. Screenshot saved: screenshots/performance_glitch_invalid_login.png
-[31m[1mERROR   [0m SwagLabsTest:test_swaglabs.py:29 Login failed error message: Epic sadface: Username and password do not match any user in this service
