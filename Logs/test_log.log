@@ -1,0 +1,30 @@
+2025-07-23 13:53:51,432 - INFO - ===== Starting test for user: performance_glitch_user =====
+2025-07-23 13:53:51,532 - DEBUG - Page Title: Swag Labs
+2025-07-23 13:54:02,714 - INFO - Login successful for user: performance_glitch_user
+2025-07-23 13:54:02,734 - DEBUG - Product Page Title: Swag Labs
+2025-07-23 13:54:05,211 - INFO - Sorted products.
+2025-07-23 13:54:18,142 - INFO - Added products to cart.
+2025-07-23 13:54:20,661 - DEBUG - Cart Page Title: Swag Labs
+2025-07-23 13:54:20,994 - INFO - Navigated to cart.
+2025-07-23 13:54:22,478 - INFO - Filled user information.
+2025-07-23 13:54:27,552 - DEBUG - No checkout error message found. Proceeding...
+2025-07-23 13:54:28,027 - INFO - Viewed checkout overview.
+2025-07-23 13:54:28,142 - INFO - Validated order summary.
+2025-07-23 13:54:30,893 - INFO - Logged out successfully.
+2025-07-23 13:54:30,894 - INFO - ===== Test completed for user: performance_glitch_user =====
+
+2025-07-23 13:54:35,813 - INFO - ===== Starting test for user: performance_glitch_user =====
+2025-07-23 13:54:35,829 - DEBUG - Page Title: Swag Labs
+2025-07-23 13:54:47,840 - INFO - Login successful for user: performance_glitch_user
+2025-07-23 13:54:47,849 - DEBUG - Product Page Title: Swag Labs
+2025-07-23 13:54:50,165 - INFO - Sorted products.
+2025-07-23 13:55:03,252 - INFO - Added products to cart.
+2025-07-23 13:55:05,738 - DEBUG - Cart Page Title: Swag Labs
+2025-07-23 13:55:06,193 - INFO - Navigated to cart.
+2025-07-23 13:55:07,422 - INFO - Filled user information.
+2025-07-23 13:55:07,664 - WARNING - Checkout error occurred. Screenshot saved: screenshots/Sangeetha_invalid_login.png
+2025-07-23 13:55:07,679 - ERROR - Checkout validation message: Error: Postal Code is required
+2025-07-23 13:55:12,728 - INFO - ===== Starting test for user: performance_glitch =====
+2025-07-23 13:55:12,749 - DEBUG - Page Title: Swag Labs
+2025-07-23 13:55:13,630 - WARNING - Login failed. Screenshot saved: screenshots/performance_glitch_invalid_login.png
+2025-07-23 13:55:13,631 - ERROR - Login failed error message: Epic sadface: Username and password do not match any user in this service
