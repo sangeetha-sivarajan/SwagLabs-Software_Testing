@@ -28,3 +28,123 @@
 2025-07-23 13:55:12,749 - DEBUG - Page Title: Swag Labs
 2025-07-23 13:55:13,630 - WARNING - Login failed. Screenshot saved: screenshots/performance_glitch_invalid_login.png
 2025-07-23 13:55:13,631 - ERROR - Login failed error message: Epic sadface: Username and password do not match any user in this service
+2025-07-23 14:48:25,847 - INFO - ===== Starting test for user: performance_glitch_user =====
+2025-07-23 14:48:25,855 - DEBUG - Page Title: Swag Labs
+2025-07-23 14:48:37,970 - INFO - Login successful for user: performance_glitch_user
+2025-07-23 14:48:37,991 - DEBUG - Product Page Title: Swag Labs
+2025-07-23 14:48:40,685 - INFO - Sorted products.
+2025-07-23 14:48:54,066 - INFO - Added products to cart.
+2025-07-23 14:48:56,750 - DEBUG - Cart Page Title: Swag Labs
+2025-07-23 14:48:57,278 - INFO - Navigated to cart.
+2025-07-23 14:48:58,834 - INFO - Filled user information.
+2025-07-23 14:49:03,872 - DEBUG - No checkout error message found. Proceeding...
+2025-07-23 14:49:05,643 - INFO - Viewed checkout overview.
+2025-07-23 14:49:05,724 - INFO - Validated order summary.
+2025-07-23 14:49:08,562 - INFO - Logged out successfully.
+2025-07-23 14:49:08,563 - INFO - ===== Test completed for user: performance_glitch_user =====
+
+2025-07-23 14:49:14,500 - INFO - ===== Starting test for user: performance_glitch_user =====
+2025-07-23 14:49:14,509 - DEBUG - Page Title: Swag Labs
+2025-07-23 14:49:29,917 - INFO - Login successful for user: performance_glitch_user
+2025-07-23 14:49:29,936 - DEBUG - Product Page Title: Swag Labs
+2025-07-23 14:49:32,591 - INFO - Sorted products.
+2025-07-23 14:49:45,599 - INFO - Added products to cart.
+2025-07-23 14:49:48,449 - DEBUG - Cart Page Title: Swag Labs
+2025-07-23 14:49:49,106 - INFO - Navigated to cart.
+2025-07-23 14:49:50,215 - INFO - Filled user information.
+2025-07-23 14:49:50,475 - WARNING - Checkout error occurred. Screenshot saved: screenshots/Sangeetha_invalid_login.png
+2025-07-23 14:49:50,495 - ERROR - Checkout validation message: Error: Postal Code is required
+2025-07-23 14:49:55,167 - INFO - ===== Starting test for user: performance_glitch =====
+2025-07-23 14:49:55,181 - DEBUG - Page Title: Swag Labs
+2025-07-23 14:49:56,047 - WARNING - Login failed. Screenshot saved: screenshots/performance_glitch_invalid_login.png
+2025-07-23 14:49:56,048 - ERROR - Login failed error message: Epic sadface: Username and password do not match any user in this service
+2025-07-23 21:30:12,010 - INFO - ===== Starting test for user: performance_glitch_user =====
+2025-07-23 21:30:12,028 - DEBUG - Page Title: Swag Labs
+2025-07-23 21:30:23,343 - INFO - Login successful for user: performance_glitch_user
+2025-07-23 21:30:23,360 - DEBUG - Product Page Title: Swag Labs
+2025-07-23 21:30:25,858 - INFO - Sorted products.
+2025-07-23 21:30:38,746 - INFO - Added products to cart.
+2025-07-23 21:30:41,542 - DEBUG - Cart Page Title: Swag Labs
+2025-07-23 21:30:42,210 - INFO - Navigated to cart.
+2025-07-23 21:30:43,892 - INFO - Filled user information.
+2025-07-23 21:30:48,940 - DEBUG - No checkout error message found. Proceeding...
+2025-07-23 21:30:49,844 - INFO - Viewed checkout overview.
+2025-07-23 21:30:49,929 - INFO - Validated order summary.
+2025-07-23 21:30:52,940 - INFO - Logged out successfully.
+2025-07-23 21:30:52,940 - INFO - ===== Test completed for user: performance_glitch_user =====
+
+2025-07-23 21:30:57,480 - INFO - ===== Starting test for user: performance_glitch_user =====
+2025-07-23 21:30:57,487 - DEBUG - Page Title: Swag Labs
+2025-07-23 21:31:08,522 - INFO - Login successful for user: performance_glitch_user
+2025-07-23 21:31:08,543 - DEBUG - Product Page Title: Swag Labs
+2025-07-23 21:31:11,071 - INFO - Sorted products.
+2025-07-23 21:31:23,656 - INFO - Added products to cart.
+2025-07-23 21:31:26,156 - DEBUG - Cart Page Title: Swag Labs
+2025-07-23 21:31:26,683 - INFO - Navigated to cart.
+2025-07-23 21:31:27,833 - INFO - Filled user information.
+2025-07-23 21:31:28,081 - WARNING - Checkout error occurred. Screenshot saved: screenshots/Sangeetha_invalid_login.png
+2025-07-23 21:31:28,101 - ERROR - Checkout validation message: Error: Postal Code is required
+2025-07-23 21:31:32,807 - INFO - ===== Starting test for user: performance_glitch =====
+2025-07-23 21:31:32,816 - DEBUG - Page Title: Swag Labs
+2025-07-23 21:31:33,716 - WARNING - Login failed. Screenshot saved: screenshots/performance_glitch_invalid_login.png
+2025-07-23 21:31:33,716 - ERROR - Login failed error message: Epic sadface: Username and password do not match any user in this service
+2025-07-23 21:46:11,553 - INFO - ===== Starting test for user: performance_glitch_user =====
+2025-07-23 21:46:11,561 - DEBUG - Page Title: Swag Labs
+2025-07-23 21:46:24,000 - INFO - Login successful for user: performance_glitch_user
+2025-07-23 21:46:24,018 - DEBUG - Product Page Title: Swag Labs
+2025-07-23 21:46:26,633 - INFO - Sorted products.
+2025-07-23 21:46:39,552 - INFO - Added products to cart.
+2025-07-23 21:46:42,294 - DEBUG - Cart Page Title: Swag Labs
+2025-07-23 21:46:42,988 - INFO - Navigated to cart.
+2025-07-23 21:46:44,856 - INFO - Filled user information.
+2025-07-23 21:46:49,914 - DEBUG - No checkout error message found. Proceeding...
+2025-07-23 21:46:50,808 - INFO - Viewed checkout overview.
+2025-07-23 21:46:50,894 - INFO - Validated order summary.
+2025-07-23 21:46:53,962 - INFO - Logged out successfully.
+2025-07-23 21:46:53,963 - INFO - ===== Test completed for user: performance_glitch_user =====
+
+2025-07-23 21:46:58,649 - INFO - ===== Starting test for user: performance_glitch_user =====
+2025-07-23 21:46:58,662 - DEBUG - Page Title: Swag Labs
+2025-07-23 21:47:10,430 - INFO - Login successful for user: performance_glitch_user
+2025-07-23 21:47:10,449 - DEBUG - Product Page Title: Swag Labs
+2025-07-23 21:47:12,952 - INFO - Sorted products.
+2025-07-23 21:47:25,545 - INFO - Added products to cart.
+2025-07-23 21:47:28,127 - DEBUG - Cart Page Title: Swag Labs
+2025-07-23 21:47:28,409 - INFO - Navigated to cart.
+2025-07-23 21:47:29,636 - INFO - Filled user information.
+2025-07-23 21:47:29,864 - WARNING - Checkout error occurred. Screenshot saved: screenshots/Sangeetha_invalid_login.png
+2025-07-23 21:47:29,880 - ERROR - Checkout validation message: Error: Postal Code is required
+2025-07-23 21:47:34,620 - INFO - ===== Starting test for user: performance_glitch =====
+2025-07-23 21:47:34,689 - DEBUG - Page Title: Swag Labs
+2025-07-23 21:47:35,567 - WARNING - Login failed. Screenshot saved: screenshots/performance_glitch_invalid_login.png
+2025-07-23 21:47:35,567 - ERROR - Login failed error message: Epic sadface: Username and password do not match any user in this service
+2025-07-23 22:31:19,792 - INFO - ===== Starting test for user: performance_glitch_user =====
+2025-07-23 22:31:19,799 - DEBUG - Page Title: Swag Labs
+2025-07-23 22:31:33,621 - INFO - Login successful for user: performance_glitch_user
+2025-07-23 22:31:33,626 - DEBUG - Product Page Title: Swag Labs
+2025-07-23 22:31:35,787 - INFO - Sorted products.
+2025-07-23 22:31:46,836 - INFO - Added products to cart.
+2025-07-23 22:31:48,999 - DEBUG - Cart Page Title: Swag Labs
+2025-07-23 22:31:49,133 - INFO - Navigated to cart.
+2025-07-23 22:31:49,762 - INFO - Filled user information.
+2025-07-23 22:31:54,807 - DEBUG - No checkout error message found. Proceeding...
+2025-07-23 22:31:55,460 - INFO - Viewed checkout overview.
+2025-07-23 22:31:55,482 - INFO - Validated order summary.
+2025-07-23 22:31:58,216 - INFO - Logged out successfully.
+2025-07-23 22:31:58,216 - INFO - ===== Test completed for user: performance_glitch_user =====
+
+2025-07-23 22:32:05,504 - INFO - ===== Starting test for user: performance_glitch_user =====
+2025-07-23 22:32:05,508 - DEBUG - Page Title: Swag Labs
+2025-07-23 22:32:18,085 - INFO - Login successful for user: performance_glitch_user
+2025-07-23 22:32:18,091 - DEBUG - Product Page Title: Swag Labs
+2025-07-23 22:32:20,257 - INFO - Sorted products.
+2025-07-23 22:32:31,111 - INFO - Added products to cart.
+2025-07-23 22:32:33,328 - DEBUG - Cart Page Title: Swag Labs
+2025-07-23 22:32:33,512 - INFO - Navigated to cart.
+2025-07-23 22:32:33,805 - INFO - Filled user information.
+2025-07-23 22:32:33,912 - WARNING - Checkout error occurred. Screenshot saved: screenshots/Sangeetha_invalid_login.png
+2025-07-23 22:32:33,922 - ERROR - Checkout validation message: Error: Postal Code is required
+2025-07-23 22:32:37,563 - INFO - ===== Starting test for user: performance_glitch =====
+2025-07-23 22:32:37,567 - DEBUG - Page Title: Swag Labs
+2025-07-23 22:32:38,094 - WARNING - Login failed. Screenshot saved: screenshots/performance_glitch_invalid_login.png
+2025-07-23 22:32:38,094 - ERROR - Login failed error message: Epic sadface: Username and password do not match any user in this service
