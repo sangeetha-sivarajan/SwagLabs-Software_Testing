@@ -1,11 +1,9 @@
-# 🛒 SwagLabs Test Automation Framework
+ 🛒 SwagLabs Test Automation Framework
 
 This project is a robust, scalable Selenium-based test automation framework for the [SwagLabs demo website](https://www.saucedemo.com). 
 It uses Python, Pytest, and Page Object Model (POM) design pattern.
 
----
-
-## 🚀 Tech Stack
+🚀 Tech Stack
 
 - **Language**: Python 3.x
 - **Automation Tool**: Selenium WebDriver
@@ -15,9 +13,7 @@ It uses Python, Pytest, and Page Object Model (POM) design pattern.
 - **Reports**: pytest-html
 - **Logging**: Python built-in logging module
 
----
-
-## 📁 Project Structure
+ 📁 Project Structure
 
 E-commerceDemotest/
 │
@@ -43,43 +39,25 @@ E-commerceDemotest/
 ├── requirements.txt # Python dependencies
 └── README.md # You're here!
 
-yaml
-Copy
-Edit
+📦 Installation
 
----
+1. Clone the repository
 
-## 📦 Installation
-
-1. **Clone the repository**
-
-```bash
 git clone https://github.com/<your-username>/SwagLabs-TestAutomation.git
 cd SwagLabs-TestAutomation
-Create and activate a virtual environment
-
-bash
-Copy
-Edit
+2. Create and activate a virtual environment
 python -m venv venv
 venv\Scripts\activate  # For Windows
-Install dependencies
-
-bash
-Copy
-Edit
+3. Install dependencies
 pip install -r requirements.txt
 🧪 How to Run Tests
-Run all tests
-bash
-Copy
-Edit
+1. Run all tests
+
 pytest tests/
-Run with HTML report
-bash
-Copy
-Edit
+2. Run with HTML report
+
 pytest tests/ --html=Reports/report.html --self-contained-html
+
 🖼️ Screenshots
 Screenshots are saved in /screenshots/ folder if login or checkout fails.
 
@@ -101,33 +79,15 @@ All test actions and results are logged in Logs/test_log.log using a custom Pyth
 
  Logging integration
 
-🧹 To Do
- Add CI/CD integration (GitHub Actions or Jenkins)
-
- Integrate headless browser mode
-
- Dockerize the project (optional)
 
 👨‍💻 Author
-Your Name
-Your GitHub Profile
+
+Sangeetha R
+Github profile  : sangeetha-sivarajan
 
 📝 License
 This project is for demo and educational purposes. Use it to learn and improve automation skills!
 
-yaml
-Copy
-Edit
 
----
 
-## ✅ Next Steps
-
-- Paste this `README.md` into your project folder.
-- Replace `Your Name` and GitHub links with yours.
-- Commit and push again:
-
-```bash
-git add README.md
-git commit -m "Add project README"
-git push
+ 
