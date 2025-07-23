@@ -1,0 +1,5 @@
+Swag Labs
+Swag Labs
+Swag Labs
+Manual screenshot saved: screenshots/Sangeetha_invalid_login.png
+Checkout validation failed as expected: Error: Postal Code is required
