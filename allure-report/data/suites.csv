@@ -1,4 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","1380","test_SwagLabs[testlist_items2]","","Wed Jul 23 21:47:34 IST 2025","passed","Wed Jul 23 21:47:35 IST 2025","","test_swaglabs","",""
-"","31499","test_SwagLabs[testlist_items1]","","Wed Jul 23 21:46:58 IST 2025","passed","Wed Jul 23 21:47:29 IST 2025","","test_swaglabs","",""
-"","42429","test_SwagLabs[testlist_items0]","","Wed Jul 23 21:46:11 IST 2025","passed","Wed Jul 23 21:46:53 IST 2025","","test_swaglabs","",""

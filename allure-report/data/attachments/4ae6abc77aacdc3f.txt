@@ -1,3 +1,0 @@
-Swag Labs
-Manual screenshot saved: screenshots/performance_glitch_invalid_login.png
-Login failed as expected. Error message: Epic sadface: Username and password do not match any user in this service
