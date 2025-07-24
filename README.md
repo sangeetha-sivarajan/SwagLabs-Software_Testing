@@ -68,7 +68,9 @@ pytest tests/
 
 **Run with HTML report**
 
-pytest tests/ --html=Reports/report.html --self-contained-html
+venv\Scripts\activate
+pytest --html=reports/report.html --self-contained-html --alluredir=reportallure
+allure generate reportallure -o allure-report --clean
 
 🖼️ Screenshots
 Screenshots are saved in the /screenshots/ folder if login or checkout fails.
