@@ -66,7 +66,7 @@ pip install -r requirements.txt
 **Run all tests**
 pytest tests/
 
-**Run with HTML repor**t
+**Run with HTML report**
 
 pytest tests/ --html=Reports/report.html --self-contained-html
 
